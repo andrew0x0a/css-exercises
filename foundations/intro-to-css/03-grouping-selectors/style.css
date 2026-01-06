@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+
+.black_bg_white_txt,
+.yellow_bg_black_text {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.black_bg_white_txt {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.yellow_bg_black_text {
+    background-color: #ffff00;
+}
